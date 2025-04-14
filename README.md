@@ -20,8 +20,7 @@ O jogo aposta em ambientes apertados, tensão constante e ausência de refúgio,
 ---
 
 ## 🗺️ Estrutura Inicial
-- ✅ **Tutorial**: primeiros passos no laboratório devastado  
-- ✅ **Nível 1**: exploração inicial e combate contra o primeiro híbrido grotesco (um inimigo mais chocante do que desafiador para definir o tom do terror)
+- ✅ **Nível 1**: exploração inicial e combate contra o primeiro híbrido grotesco.
 
 ---
 
